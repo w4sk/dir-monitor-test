@@ -12,15 +12,14 @@ use default input/output dir
 python watch_test.py
 ```
 
-specify input/output dir
 
+specify input/output dir
 ```
-python watch_test.py --input_dir /path/to/input/dir --output_dir path/to/output/dir
+python watch_test.py --input_dir /path/to/input/dir --output_dir /path/to/output/dir
 ```
 
 or
 
 ```
-python watch_test.py -i /path/to/input/dir -o path/to/output/dir
+python watch_test.py -i /path/to/input/dir -o /path/to/output/dir
 ```
-
